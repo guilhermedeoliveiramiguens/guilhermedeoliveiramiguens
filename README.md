@@ -17,7 +17,7 @@ Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com g
 - Algoritmo
 - Lógica de programação
 - Full Stack ( Front-end e Back-end )
-- DeVops ( Parte de automação e monitoramento )
+- DevOps ( Parte de automação e monitoramento )
 
 ### ⚙ Ferramentas que estou tendo contato
 
