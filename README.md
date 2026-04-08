@@ -19,8 +19,9 @@ Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com g
 
 ### ⚙ Ferramentas que estou tendo contato
 
-- Zabbix - Monitoramento
-- N8N - Automação
+- Zabbix
+- N8N
+- GLPI
 
           
 
