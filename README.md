@@ -14,14 +14,16 @@ Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com g
 
 ### 📚 Oque estou estudando atualmente?
 
-- Algoritmo / Lógica de programação
-- Full Stack ( Front-end e Back-end )
-- DevOps ( Parte de automação e monitoramento )
+- Algoritmo
+- Lógica de programação
+- Full Stack
+- DevOps
 
 ### ⚙ Ferramentas que estou tendo contato
 
 - Zabbix
 - N8N
+- Node.JS
  
 
           
