@@ -10,22 +10,6 @@ Desenvolvedor Full Stack em formação | 16 anos | Manaus, AM. Meu desenvolvimen
 <a href="https://www.linkedin.com/in/guilhermedeoliveiramiguens/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermedeoliveiramiguens/" alt="LinkedIn"/></a>
 </p>
-
-
-### 📚 Oque estou estudando atualmente?
-
-- Algoritmo
-- Lógica de programação
-- Full Stack
-- DevOps
-
-### ⚙ Ferramentas que estou tendo contato
-
-- Zabbix
-- N8N
-- Node.JS
- 
-
           
 
 
