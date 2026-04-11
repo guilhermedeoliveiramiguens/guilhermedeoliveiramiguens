@@ -1,8 +1,9 @@
 # 👨‍💻 Guilherme De Oliveira
 
-**`Jovem profissional de T.I em desenvolvimento`**
+**`Desenvolvedor Full Stack em formação`**
 
-Guilherme, tenho 16 anos. Jovem Profissional de Tecnologia da informação com grande interesse por inovação, resolução de problemas e aprimoramento contínuo. Apaixonado por aprender e aplicar conhecimentos em tecnologia para melhorar a experiência dos usuários e otimizar processos. Busco constantemente me atualizar com as tendências do setor de T.I, desenvolvendo tanto competências técnicas quanto habilidades interpessoais, com o objetivo de crescer profissionalmente e contribuir de forma significativa no mercado da tecnologia.
+Desenvolvedor Full Stack em formação | 16 anos | Manaus, AM
+Meu desenvolvimento profissional segue o modelo T-shaped: aprofundamento real em desenvolvimento Full Stack, com visão ampla sobre todo o ecossistema de tecnologia. Acredito que um bom desenvolvedor não precisa saber tudo, mas precisa entender o suficiente de cada área para tomar decisões melhores, se comunicar com qualquer time e construir soluções mais completas. Por isso, além do desenvolvimento, estudo e me aprofundo gradualmente em outras áreas. Ainda no início da jornada, mas com visão clara de onde quero chegar.
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=guilhermedeoliveiramiguens@gmail.com&tf=cm" title="Gmail">
