@@ -2,11 +2,15 @@
 
 **`Desenvolvedor`**
 
-Iniciei minha jornada no mundo da tecnologia com o objetivo de me tornar um desenvolvedor Full Stack e construir uma carreira sólida na área de desenvolvimento web.
+Estudante de Engenharia de Software com 1 ano e meio de experiência no setor de tecnologia. Iniciei minha carreira na área de suporte técnico N1, onde desenvolvi habilidades sólidas em resolução de problemas, atendimento ao usuário.
 
-Atualmente estou me capacitando por meio de um curso completo de desenvolvimento web, onde estou aprendendo desde os fundamentos até conceitos mais avançados, incluindo HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL e Node.js. Também venho desenvolvendo conhecimentos em APIs REST, versionamento com Git e GitHub e fundamentos de frameworks como Laravel e CodeIgniter.
+Atualmente, estou direcionando minha carreira para o desenvolvimento de software, aprofundando meus conhecimentos em programação, boas práticas de código e construção de aplicações. Tenho como objetivo evoluir continuamente como desenvolvedor, aplicando na prática o que aprendo e contribuindo para a criação de soluções eficientes.
 
-Acredito no aprendizado contínuo e na prática como principal forma de evolução, por isso estou sempre buscando criar projetos e aprimorar minhas habilidades técnicas.
+-Front-end
+HTML
+CSS
+JavaScript
+-Frameworks: Agular, React
 
 
 <p align="left">
