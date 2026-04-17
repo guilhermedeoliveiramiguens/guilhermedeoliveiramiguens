@@ -1,13 +1,12 @@
 # 👨‍💻 Guilherme Oliveira
 
-**`Desenvolvedor Full Stack em formação`**
+**`Desenvolvedor`**
 
 Iniciei minha jornada no mundo da tecnologia com o objetivo de me tornar um desenvolvedor Full Stack e construir uma carreira sólida na área de desenvolvimento web.
 
 Atualmente estou me capacitando por meio de um curso completo de desenvolvimento web, onde estou aprendendo desde os fundamentos até conceitos mais avançados, incluindo HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL e Node.js. Também venho desenvolvendo conhecimentos em APIs REST, versionamento com Git e GitHub e fundamentos de frameworks como Laravel e CodeIgniter.
 
 Acredito no aprendizado contínuo e na prática como principal forma de evolução, por isso estou sempre buscando criar projetos e aprimorar minhas habilidades técnicas.
-
 
 
 <p align="left">
